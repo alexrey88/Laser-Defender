@@ -1,0 +1,75 @@
+# Unity generated files
+Library/
+Temp/
+obj/
+Build/
+Builds/
+ProjectSettings/
+Logs/
+UnityGenerated/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.sln
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.sln
+*.apk
+*.unityproj
+*.pdb
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.userprefs
+
+# Unity3D crash report files
+sysinfo.txt
+
+# macOS-specific
+*.swp
+
+# Android
+build/
+obj/
+.gradle/
+local.properties
+*.iml
+
+# iOS
+Pods/
+*.xcodeproj/
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/
+!*.xcworkspace/xcshareddata/
+!*.xcworkspace/xcuserdata/
+
+# Gradle
+.gradle/
+build/
+
+# Auto-generated Android assets
+gen/
+
+# External dependency folders
+Dependencies/
+
+# JetBrains Rider
+.idea/
+
+# Rider project files
+.idea/
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea
